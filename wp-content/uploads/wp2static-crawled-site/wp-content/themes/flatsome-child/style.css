@@ -1,0 +1,27 @@
+/*
+Theme Name: Flatsome Child
+Theme URI: http://flatsome.uxthemes.com
+Template: flatsome
+Author: Quick Money Team
+Author URI: https://uxthemes.com
+Description: Multi-Purpose Responsive WooCommerce Theme
+Version: 1.1.1683542871
+Updated: 2023-05-08 10:47:51
+
+*/
+
+#wpforms-39-field_2-container .wpforms-field-label {
+	color: #f1f1f1 !important;
+}
+
+.wpforms-required-label {
+	font-size: 22px !important;
+}
+
+.wpforms-container-full .wpforms-field-label {
+	color: #777 !important;
+}
+
+.footer-1 a, .footer-1 .textwidget p, .footer-1 .widget-title{
+	color: #f1f1f1 !important;
+}
